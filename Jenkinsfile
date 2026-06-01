@@ -27,7 +27,7 @@ pipeline {
     // Outils configurés dans Global Tool Configuration
     tools {
         maven 'Maven3'    // Nom exact défini dans Jenkins
-        jdk   'JDK17'     // Nom exact défini dans Jenkins
+        jdk   'JDK25'     // Nom exact défini dans Jenkins
     }
 
     // ─────────────────────────────────────────────────
